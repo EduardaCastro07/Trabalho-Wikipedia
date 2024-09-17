@@ -49,15 +49,15 @@ p{
 /* ONE PIECE */
 
 .folha{
-    height: 1000px;
+    height: 2200px;
     margin: 20px;
     background-color: #f9f9f9;  
 }
 
-.folha h1{
+.titulo-folha{
     font-style: italic;
     text-align: left;
-    padding-left: 50px;
+    padding-left: 200px;
     padding-top: 20px;
 }
 
@@ -87,17 +87,27 @@ p{
 .tabela ul li{
     padding: 2px;
     margin-left: 20px;
+    color: black;
 }
 
+.conteudo-folha p{
+    font-weight:lighter;
+    margin-left: 100px;
+    text-align: left;
+    margin-right: 100px;
+}
 
+.titulo1{
+    font-weight: lighter;
+    text-align: left;
+    margin-left: 200px;
+}
 
-
-
-
-
-
-
-
+.titulo2{
+    font-weight: bold;
+    text-align: left;
+    margin-left: 200px;
+}
 
 
 
