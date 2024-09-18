@@ -46,10 +46,10 @@ p{
     text-align: center;
 } 
 
-/* ONE PIECE */
+/* ONE PIECE E CAVALEIROS */
 
 .folha{
-    height: 2200px;
+    height: 3000px;
     margin: 20px;
     background-color: #f9f9f9;  
 }
@@ -73,7 +73,7 @@ p{
     height: 300px;
     margin-left: 100px;
     margin-top: 50px;
-    
+    margin-bottom: 50px;
 }
 
 .tabela h1{
